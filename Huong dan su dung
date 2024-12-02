@@ -3,3 +3,4 @@ Các thư viện cần cài đặt: OpenCV (thị giác máy tính), PyCaw (đi�
 
 Vì máy lúc thuyết trình không có cam nên phải dùng webcam link với điện thoại. Mọi người muốn chạy thử thì chỉnh mọi dòng code này 'cam = cv2.VideoCapture(0, cv2.CAP_DSHOW)'
 thành 'cam = cv2.VideoCapture(0)', tức là chọn camera chính của laptop làm input. 
+Thông tin liên hệ nếu có thắc mắc về code cần hỗ trợ: https://web.facebook.com/htti110
