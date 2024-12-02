@@ -1,4 +1,4 @@
-Number plate recognition
+Introduction to Open Source Computer Vision Library (OpenCV)
 
 Conducted by: 
 
