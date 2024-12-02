@@ -1,0 +1,5 @@
+Phiên bản Python: 3.11.6 (cài đặt xong nhớ đổi biến Environment, chi tiết có thể hỏi ChatGPT)
+Các thư viện cần cài đặt: OpenCV (thị giác máy tính), PyCaw (điều chỉnh âm lượng), mediapipe (hand recognition)
+
+Vì máy lúc thuyết trình không có cam nên phải dùng webcam link với điện thoại. Mọi người muốn chạy thử thì chỉnh mọi dòng code này 'cam = cv2.VideoCapture(0, cv2.CAP_DSHOW)'
+thành 'cam = cv2.VideoCapture(0)', tức là chọn camera chính của laptop làm input. 
